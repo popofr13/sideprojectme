@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Outputting
+paginate_path:    /page:num
+paginate:         5
+permalink:        pretty
+timezone:         Europe/Paris
+
+# Setup
+title:            Side project me
+tagline:          'A personal blog about a personal side project'
+description:      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere, nisl a mollis hendrerit, dui tellus sagittis mi, vel scelerisque justo nunc vitae diam. Aenean pretium libero velit. Interdum et.'
+url:              https://popofr13.github.io/sideprojectme/
+baseurl:          /
+
+author:
+  name:           'Sebastien Porati'
+  url:            https://twitter.com/popofr13
+
+# Plugins
+gems:             [jekyll-paginate]
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/popofr13/sideprojectme

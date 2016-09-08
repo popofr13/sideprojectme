@@ -2,6 +2,9 @@
 markdown:         kramdown
 highlighter:      rouge
 
+# Filtering Content
+future:      false
+
 # Outputting
 paginate_path:    /page:num
 paginate:         5

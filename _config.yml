@@ -14,7 +14,7 @@ timezone:         Europe/Paris
 # Setup
 title:            Side project me
 tagline:          'A personal blog about a personal side project'
-description:      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere, nisl a mollis hendrerit, dui tellus sagittis mi, vel scelerisque justo nunc vitae diam. Aenean pretium libero velit. Interdum et.'
+description:      'Un petit blog pour parler accompagner mon nouveau side project : des articles sur la conception, la réalisation, et la vie de celui-ci.'
 url:              https://popofr13.github.io/sideprojectme/
 baseurl:          /
 
